@@ -6,30 +6,6 @@
       name="viewport"
       content="width=device-width, initial-scale=1.0"
     />
-    <meta
-      name="description"
-      content="Classic 2048 puzzle game built with vanilla JavaScript. Use arrow keys or swipe to merge tiles and reach 2048!"
-    />
-    <meta
-      name="theme-color"
-      content="#edc22e"
-    />
-    <meta
-      property="og:title"
-      content="2048 — puzzle game"
-    />
-    <meta
-      property="og:description"
-      content="Merge tiles and reach 2048. Play with arrow keys or swipes."
-    />
-    <meta
-      property="og:type"
-      content="website"
-    />
-    <link
-      rel="icon"
-      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='12' fill='%23edc22e'/%3E%3Ctext x='50' y='64' font-family='sans-serif' font-size='34' font-weight='900' fill='%23f9f6f2' text-anchor='middle'%3E2048%3C/text%3E%3C/svg%3E"
-    />
     <title>2048</title>
     <link
       rel="stylesheet"
